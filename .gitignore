@@ -1,0 +1,12 @@
+# Exécutables
+majority-checker
+a.out
+*.exe
+
+# Objets
+*.o
+
+# Temporaires
+*.swp
+
+build/
